@@ -69,7 +69,7 @@ http://181.119.66.30:8000/play/a03r/index.m3u8
 http://181.129.198.235:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports OCTUBRE 14
 http://181.204.79.182:8202/play/a026
-#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports set-30
+#EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/MKwXy9hQ/WIN-SPORTS-VU-TV-PLAYER.png" group-title="|CO| Colombia",➾ CO | Win Sports SEPT -30
 http://181.78.67.178:1010/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/76yywq0Y/WIN-BASIC-AZUL-CE-VU-TV-PLAYER.png"group-title="|CO| Colombia",➾ CO | Win Sports set-30
 http://181.78.67.178:1010/play/a01e/index.m3u8

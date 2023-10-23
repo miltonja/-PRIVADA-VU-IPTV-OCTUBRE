@@ -19,7 +19,7 @@ http://181.204.79.182:8202/play/a04m
 http://190.61.46.126:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/rp87yjkL/WIN_PLUS_AZUL_CELESTE-VU-TV-PLAYER.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | SEPT-29
 http://181.78.67.178:1010/play/a03q/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/kgNkdZLc/WIN__PLUS_ROJO-VU-TV-PLAYER.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | SEPT-17 1
+#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/kgNkdZLc/WIN__PLUS_ROJO-VU-TV-PLAYER.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | SEPT-17
 http://200.69.73.34:9543/play/a06c/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/R0XyWtSJ/WIN_PLUS_AMARILLO-VU-TV-PLAYER.png" group-title="♦️|CO| Colombia♦️",➾ CO | WIN PLUS-SEPT-08
 http://186.148.183.242:5800/play/a0d7/index.m3u8
@@ -825,29 +825,29 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="DEPORTE" tvg-logo="https://i.postimg.cc/c48DGHjT/TNT-SPORTS-5-VU-TV-PLAYER.png",EVENTOS TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/wtFM93h.png",Festiva Country Music | EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/MT3LQQ1N/FESTIVA-COUNTRY-VU-TV-PLAYER.png",FESTIVA COUNTRY MUSIC | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1275
-#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/wtFM93h.png",Festiva Hip Hop | EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/3wBV36NK/FESTIVA-HIP-HOP-VU-TV-PLAYER.png",FESTIVA HIP HOP| EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1273
-#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/wtFM93h.png",Festiva Top 40 TV | EUA
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.postimg.cc/0Qy3jfK7/FESTIVA-TOP-40-VU-TV-PLAYER.png",FESTIVA TOP 40 TV | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1274
-#EXTINF:-1 group-title="Variedades em espanhol" tvg-logo="https://i.postimg.cc/DZrkN6RV/TELEVISA-ESP.png",Televisa | México
+#EXTINF:-1 group-title="Variedades em espanhol" tvg-logo="https://i.postimg.cc/DZrkN6RV/TELEVISA-ESP.png",TELEVISA | México
 http://linear-317.frequency.stream/317/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/L4TRbrpf/TELEVISA-BLANCO.png",Televisa Telenovelas | Itália
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/SQH0tbFX/TELEVISA-PUEBLA-VU-TV-PLAYER.png",TELEVISA TELENOVELAS | Itália
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.postimg.cc/SK0nVQkV/univision-noticias.png",UNIVISION NOTICIAS
 http://linear-315.frequency.stream/315/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.postimg.cc/x8LHzFwt/MEDIA-ESP.png",N+ Media - Televisa | México
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.postimg.cc/VsZyrdwX/N-TELEVISA-VU-TV-PLAYER.png",N + MEDIA | MEXICO
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/0jTLfNyh/MTV-TATTO-A-DOS-ESP.png",MTV TATTO A DOS | Pluto TV Espanha
+#EXTINF:-1 group-title="REALITY" tvg-logo="https://i.postimg.cc/rpGHjpry/MTV-TATTO-VU-TV-PLAYER.png",MTV TATTO A DOS |
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png", 13 Cultura | CL
+#EXTINF:-1 tvg-id="1193" tvg-name="13 Cultura" tvg-logo="https://i.postimg.cc/8CH4XpRT/CANAL-13-CULTURA-VU-TV-PLAYER.png", 13 CULTURA | CL
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion | CL
+#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://i.postimg.cc/CKYJ4Bfv/CANAL-13-ENTRETENCION-VU-TV-PLAYER.png", 13 ENTRETENCION| CL
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime | CL
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://i.postimg.cc/TwN9GtNS/CANAL-13-PRIME-VU-TV-PLAYER.png", 13 PRIME | CL
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries | CL
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i.postimg.cc/Kz8Nd6fB/CANA13-TELE-SERIES-VU-TV-PLAYER.png", 13 Teleseries | CL
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="386" tvg-name="Energia TV" tvg-logo="https://lh3.googleusercontent.com/-OixheIRfa_Y/YDwn1t40sVI/AAAAAAABAcE/SV3ZQAJE8l4yRS-KV-hCat4miTZwNOuXwCK8BGAsYHg/s512/2021-02-28.png", Energia TV | CL
 https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL

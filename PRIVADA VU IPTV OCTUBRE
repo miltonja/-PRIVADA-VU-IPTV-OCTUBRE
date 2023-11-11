@@ -53,7 +53,7 @@ http://181.78.67.178:1010/play/a01e/index.m3u8
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EL SOL NEW YORK TV"tvg-name="⭐| EL SOL NEW YORK TV"tvg-logo="https://cdn.m3u.cl/logo/1496_El_Sol_Network_TV.png" group-title="⭐MUSICA⭐",⭐|➾ EL SOL NEW YORK TV
 https://server40.servistreaming.com:3031/live/elsolnetworklive.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="DIMELO TV" tvg-logo="https://i.postimg.cc/X7xk925R/DIMELO-TV-VU-TV-PLAYER.png" group-title="REPUBLICA DOMINICANA",DIMELO TV HD
+#EXTINF:-1 tvg-id="DIMELO TV" tvg-logo="https://i.postimg.cc/X7xk925R/DIMELO-TV-VU-TV-PLAYER.png" group-title="R💎EPUBLICA DOMINICANA💎",💎DIMELO TV HD
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
 #EXTINF:-1 tvg-id="SolTV.gt" tvg-logo="https://i.postimg.cc/3rXBxrxJ/SOL-TV-VU-TV-PLAYER.png" group-title="PELICULAS",SOL TV HD
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8

@@ -49,7 +49,7 @@ http://181.204.79.182:8202/play/a026
 http://181.78.67.178:1010/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS +" tvg-name="CO | Win Sports +" tvg-logo="https://i.postimg.cc/76yywq0Y/WIN-BASIC-AZUL-CE-VU-TV-PLAYER.png"group-title="|CO| Colombia",➾ CO | Win Sports set-30
 http://181.78.67.178:1010/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="RCN XTRA" tvg-logo="https://i.postimg.cc/9MGG01VN/RCN-EXTRA-VU-TV-PLAYER.png" group-title="COLOMBIA",RCN XTRA TV HD
+#EXTINF:-1 tvg-id="RCN XTRA" tvg-logo="https://i.postimg.cc/9MGG01VN/RCN-EXTRA-VU-TV-PLAYER.png" group-title="🔵COLOMBIA🔵",🔵RCN XTRA TV HD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EL SOL NEW YORK TV"tvg-name="⭐| EL SOL NEW YORK TV"tvg-logo="https://cdn.m3u.cl/logo/1496_El_Sol_Network_TV.png" group-title="⭐MUSICA⭐",⭐|➾ EL SOL NEW YORK TV
 https://server40.servistreaming.com:3031/live/elsolnetworklive.m3u8?WebM3UCL

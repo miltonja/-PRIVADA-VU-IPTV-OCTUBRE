@@ -55,9 +55,9 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 https://server40.servistreaming.com:3031/live/elsolnetworklive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="DIMELO TV" tvg-logo="https://i.postimg.cc/X7xk925R/DIMELO-TV-VU-TV-PLAYER.png" group-title="R💎EPUBLICA DOMINICANA💎",💎DIMELO TV HD
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
-#EXTINF:-1 tvg-id="SolTV.gt" tvg-logo="https://i.postimg.cc/3rXBxrxJ/SOL-TV-VU-TV-PLAYER.png" group-title="PELICULAS",SOL TV HD
+#EXTINF:-1 tvg-id="SolTV.gt" tvg-logo="https://i.postimg.cc/3rXBxrxJ/SOL-TV-VU-TV-PLAYER.png" group-title="⮘✨⮚PELICULAS⮘✨⮚",⮘✨⮚SOL TV HD
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-id="CINE SONY" tvg-logo="https://i.postimg.cc/nhPKPC0T/SONY-CINE-VU-TV-PLAYER.png" group-title="PELICULAS",CINE SONY HD
+#EXTINF:-1 tvg-id="CINE SONY" tvg-logo="https://i.postimg.cc/nhPKPC0T/SONY-CINE-VU-TV-PLAYER.png" group-title="⮘✨⮚PELICULAS⮘✨⮚",⮘✨⮚CINE SONY HD
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="INTERNACIONAL"tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/XYJcLwcp/GOLDEN-TV-VU-TV-PLAYER.png",GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8

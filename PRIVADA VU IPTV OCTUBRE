@@ -55,11 +55,11 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 https://server40.servistreaming.com:3031/live/elsolnetworklive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="DIMELO TV" tvg-logo="https://i.postimg.cc/X7xk925R/DIMELO-TV-VU-TV-PLAYER.png" group-title="R💎EPUBLICA DOMINICANA💎",💎DIMELO TV HD
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
-#EXTINF:-1 tvg-id="SolTV.gt" tvg-logo="https://i.postimg.cc/3rXBxrxJ/SOL-TV-VU-TV-PLAYER.png" group-title="⮘✨⮚PELICULAS⮘✨⮚",⮘✨⮚SOL TV HD
+#EXTINF:-1 tvg-id="✨SolTV.gt" tvg-logo="https://i.postimg.cc/3rXBxrxJ/SOL-TV-VU-TV-PLAYER.png" group-title="✨PELICULAS✨",✨SOL TV HD
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-id="CINE SONY" tvg-logo="https://i.postimg.cc/nhPKPC0T/SONY-CINE-VU-TV-PLAYER.png" group-title="⮘✨⮚PELICULAS⮘✨⮚",⮘✨⮚CINE SONY HD
+#EXTINF:-1 tvg-id="✨CINE SONY" tvg-logo="https://i.postimg.cc/nhPKPC0T/SONY-CINE-VU-TV-PLAYER.png" group-title="✨PELICULAS⮘✨",✨CINE SONY HD
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="INTERNACIONAL"tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/XYJcLwcp/GOLDEN-TV-VU-TV-PLAYER.png",GOLDEN PLUS
+#EXTINF:-1 group-title="❄️INTERNACIONAL❄️"tvg-name="GOLDEN PLUS" tvg-logo="https://i.postimg.cc/XYJcLwcp/GOLDEN-TV-VU-TV-PLAYER.png",❄️GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LAMIATV.do" tvg-logo="https://i.postimg.cc/5tQ5dbrJ/LA-MIA-TV-VU-TV-PLAYER.png" group-title="Music",LA MIA TV HD
 https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
@@ -104,17 +104,17 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="El Hormiguero",El Hormiguero
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="El club de la comedia",El club de la comedia
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="❇️ESPAÑA❇️" tvg-name="❇️El club de la comedia",❇️El club de la comedia
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="Equipo de investigación",Equipo de investigación
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="❇️ESPAÑA❇️" tvg-name="❇️Equipo de investigación",❇️Equipo de investigación
 https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title=❇️"ESPAÑA❇️" tvg-name="❇️Aquí no hay quién viva",❇️Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvlinares/picture?width=200&height=200" group-title="ESPAÑA" tvg-name="PTV Linares",PTV Linares
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvlinares/picture?width=200&height=200" group-title="❇️ESPAÑA❇️" tvg-name="❇️PTV Linares",❇️PTV Linares
 https://streamer.zapitv.com/ptv-linarez/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/afortunadastv/picture?width=200&height=200" group-title="Canarias" tvg-name="Afortunadas TV",Afortunadas TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/afortunadastv/picture?width=200&height=200" group-title="❇️ESPAÑA❇️" tvg-name="❇️Afortunadas TV",❇️Afortunadas TV
 https://cloudvideo.servers10.com:8081/8108/index.m3u8
-#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV3",TV3 GEO
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="❇️ESPAÑA❇️" tvg-name="❇️TV3",❇️TV3 GEO
 https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tveInternacional/picture?width=200&height=200" group-title="Int. Europa" tvg-name="TVE Int. Europa",TVE Int. Europa
 https://ztnr.rtve.es/ztnr/6891743.m3u8
@@ -146,13 +146,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 group-title=🎬"PELICULAS🎬"tvg-id="CHILE VISUAL FILM"tvg-name="✪CHILE VISUAL FILM"tvg-logo="https://i.postimg.cc/CMbJx1SK/CHILE-VISUAL-FILM-VU-TV-PLAYER.png",🎬 |➾CHILE VISUAL FILM 
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="✪CHILE✪"tvg-id="TV Y TV" tvg-name="✪ TV y TV" tvg-logo="https://i.postimg.cc/gk6ScyHZ/TV-Y-TV-VU-TV-PLAYER.png",✪ |➾ TV y TV 
+#EXTINF:-1 group-title="🌟 CHILE 🌟"tvg-id="TV Y TV" tvg-name="🌟 TV y TV" tvg-logo="https://i.postimg.cc/gk6ScyHZ/TV-Y-TV-VU-TV-PLAYER.png",🌟 |➾ TV y TV 
 https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="✪CHILE✪"tvg-id="SEÑAL 21" tvg-name="✪SEÑAL 21" tvg-logo="https://i.postimg.cc/pLjLBSYL/SE-AL-21-VU-TV-PLAYER.png",✪ |➾ SEÑAL 21 TV HD 
+#EXTINF:-1 group-title="🌟 CHILE 🌟"tvg-id="SEÑAL 21" tvg-name="🌟 SEÑAL 21" tvg-logo="https://i.postimg.cc/pLjLBSYL/SE-AL-21-VU-TV-PLAYER.png", 🌟|➾ SEÑAL 21 TV HD 
 https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="✪CHILE✪"tvg-id="TV ELQUI" tvg-name="✪TV Elqui" tvg-logo="https://i.postimg.cc/Dzs5n7Q3/TV-EQUI-VU-TV-PLAYER.png",✪ |➾ TV ELQUI TV HD
+#EXTINF:-1 group-title="🌟 CHILE 🌟"tvg-id="TV ELQUI" tvg-name="🌟 TV Elqui" tvg-logo="https://i.postimg.cc/Dzs5n7Q3/TV-EQUI-VU-TV-PLAYER.png",🌟 |➾ TV ELQUI TV HD
 https://paneltv.online:1936/8160/8160/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="✪CHILE✪"tvg-id="TV COSTA" tvg-name="✪TV COSTA" tvg-logo="https://i.postimg.cc/mrQsT9ZS/TV-COSTA-VU-TV-PLAYER.png",✪ |➾ TV Costa | CL
+#EXTINF:-1 group-title="🌟 CHILE 🌟"tvg-id="TV COSTA" tvg-name="🌟 TV COSTA" tvg-logo="https://i.postimg.cc/mrQsT9ZS/TV-COSTA-VU-TV-PLAYER.png",🌟 |➾ TV Costa | CL
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="CINE ESTRELLA "tvg-name="⭐CINE ESTRELLA"tvg-logo="https://i.postimg.cc/FRhQnqzB/CINE-ESTRELLA-VU-TV-PLAYER.png"group-title="⭐PELICULAS⭐",⭐|➾CINE ESTRELLA TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
@@ -176,7 +176,7 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 #EXTINF:-1 tvg-id="MOVIES CENTRAL TV"tvg-name="⭐| MOVIES CENTRAL TV HD"tvg-logo="https://i.postimg.cc/pVGgDkbR/MOVIES-CENTRAL-VU-TV-PLAYER.png"group-title="⭐PELICULAS⭐",⭐|➾ MOVIES CENTRAL TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="1400" tvg-name="SOLIVE TV" tvg-logo="https://i.postimg.cc/yxyhyLWB/SOLIVE-TV-VU-TV-PLAYER.png", SOLIVE TV TV | VE
+#EXTINF:-1 tvg-id="1400" tvg-name="⭐SOLIVE TV" tvg-logo="https://i.postimg.cc/yxyhyLWB/SOLIVE-TV-VU-TV-PLAYER.png" group-title="⭐PELICULAS⭐",⭐|➾, SOLIVE TV TV | VE
 https://stmv1.cnarlatam.com/solivetv/solivetv/chunklist_w188881660.m3u8?WebM3UCL
 #EXTINF:-1 group-title="ENTRETENIMIENTO"tvg-name="PALMERAS TV"tvg-logo="https://i.postimg.cc/g27ZbCZr/PALMERAS-VU-TV-PLAYER.png",TV PALMERAS TV HD
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
@@ -194,17 +194,17 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:-1 group-title="Musicales" tvg-logo="https://i.postimg.cc/kgg4MYTY/LA-SUPER-DISCOTECA-VU-TV-PLAYER.png",lA SUPER DISCOTECA TV 
 https://canal.lasuperdiscotecatv.com:3020/live/lasuperdiscotecatvlive.m3u8
-#EXTINF:-1 tvg-id="RUNTIME CINE SERIES"tvg-logo="https://i.postimg.cc/Gpzx8fRB/RUNTIME-SERIES-VU-TV-PLAYER.png" group-title="PELICULAS",RUNTIME CINE SERIES
+#EXTINF:-1 tvg-id="⭕️💠RUNTIME CINE SERIES"tvg-logo="https://i.postimg.cc/Gpzx8fRB/RUNTIME-SERIES-VU-TV-PLAYER.png" group-title="⭕️💠PELICULAS⭕️💠",⭕️💠RUNTIME CINE SERIES
 https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_es/rt_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="RUNTIME ACCION"tvg-logo="https://i.postimg.cc/506KxJz9/RUN-TIME-ACCION-VU-TV-PLAYER.png" group-title="PELICULAS" ,RUNTIME ACCION
+#EXTINF:-1 tvg-id="⭕️💠RUNTIME ACCION"tvg-logo="https://i.postimg.cc/506KxJz9/RUN-TIME-ACCION-VU-TV-PLAYER.png" group-title="⭕️💠PELICULAS⭕️💠" ,⭕️💠RUNTIME ACCION
 https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="RUNTIME COMEDIA"tvg-logo="https://i.postimg.cc/G3DzzqJf/RUN-TIME-COMEDIA-VU-TV-PLAYER.png"group-title="PELICULAS" ,RUNTIME COMEDIA
+#EXTINF:-1 tvg-id="⭕️💠RUNTIME COMEDIA"tvg-logo="https://i.postimg.cc/G3DzzqJf/RUN-TIME-COMEDIA-VU-TV-PLAYER.png"group-title="⭕️💠PELICULAS⭕️💠" ,⭕️💠RUNTIME COMEDIA
 https://d1w4lf3ohil0ad.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fgcph1khrr3ct/rc_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="RUNTIME ROMANCE"tvg-logo="https://i.postimg.cc/HxzWCQQ1/RUN-TIME-ROMANCE-VU-TV-PLAYER.png" group-title="PELICULAS" ,RUNTIME ROMANCE
+#EXTINF:-1 tvg-id="⭕️💠RUNTIME ROMANCE"tvg-logo="https://i.postimg.cc/HxzWCQQ1/RUN-TIME-ROMANCE-VU-TV-PLAYER.png" group-title="⭕️💠PELICULAS⭕️💠" ,⭕️💠RUNTIME ROMANCE
 https://d3c5d9v98rks92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c7xudvnfq7skl/rr_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="BJGTJME"tvg-logo="https://i.postimg.cc/FKsNVYMP/BJGTJMR-PELICULAS-VU-TV-PLAYER.png"group-title="ESPAÑA" , BJGTJMR-PELICULAS
+#EXTINF:-1 tvg-id="⭕️💠BJGTJME"tvg-logo="https://i.postimg.cc/FKsNVYMP/BJGTJMR-PELICULAS-VU-TV-PLAYER.png"group-title="⭕️💠PELICULAS⭕️💠" , ⭕️💠BJGTJMR-PELICULAS
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?ads.wurl_channel=1251&ads.wurl_name=BjgtjmePeliculasGratis&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="CINES VERDI"tvg-logo="https://i.postimg.cc/6QSg4Tt4/CINES-VERDI-VU-TV-PLAYER.png" group-title="Spain" ,CINES VERDI TV
+#EXTINF:-1 tvg-id="⭕️💠CINES VERDI"tvg-logo="https://i.postimg.cc/6QSg4Tt4/CINES-VERDI-VU-TV-PLAYER.png" group-title="⭕️💠Spain⭕️💠" ,⭕️💠CINES VERDI TV
 https://d2vxs6a73h4kai.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gson0whk7ox3g-ssai-prd/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="AZTECA MUNDO"tvg-logo="https://i.postimg.cc/N0yMdCzq/AZTECA-MUNDO-ESP-VU-TV-PLAYER.png" group-title="MEXICO",➾TV AZTECA MUNDO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
